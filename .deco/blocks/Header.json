@@ -1,5 +1,8 @@
 {
   "__resolveType": "site/sections/Header.tsx",
-  "title": "<p>Click here to tweak this text however you want.</p>",
-  "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  "title": "<p>The 5 Most Popular Indian Web Series of All Time</p>",
+  "description": "<p style=\"text-align: center\">The last few years have seen Indian web series evolve rapidly with the rise of streaming options. To chart this journey, here are the IMDb Top 50 all-time most popular Indian web series, determined by the page views of IMDb customers in India between January 1, 2018 to May 10, 2023.</p>",
+  "logo": {
+    "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/b67392a5-88df-48a5-9be1-22773fce52bb"
+  }
 }

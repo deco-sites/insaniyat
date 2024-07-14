@@ -1,13 +1,67 @@
 {
-  "name": "Home",
+  "name": "Web Series",
   "path": "/",
   "sections": [
-    { "__resolveType": "Header" },
-    { "__resolveType": "site/sections/Social.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "site/sections/Image.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "Footer" }
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": []
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/00f845fa-7e9b-4f84-9e17-4a55996c3c28"
+          },
+          "label": "Sacred Games - TV Series 2018–2019",
+          "href": "https://www.imdb.com/title/tt6077448/?ref_=ls_t_1"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/e5f722e5-b28a-425e-aa0b-28ea5b5023ac"
+          },
+          "label": "Mirzapur - TV Series 2018–Present",
+          "href": "https://www.imdb.com/title/tt6473300/?ref_=ls_t_2"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/551161fd-6121-4fca-a815-47ef4a4c9c75"
+          },
+          "label": "Scam 1992: The Harshad Mehta Story - TV Mini Series 2020",
+          "href": "https://www.imdb.com/title/tt12392504/?ref_=ls_t_3"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/c3d5de7a-e2d6-4666-8260-23a5f237ed3e"
+          },
+          "label": "The Family Man - TV Series 2019–Present",
+          "href": "https://www.imdb.com/title/tt9544034/?ref_=ls_t_4"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/1b811f20-cdef-4816-8ff1-149781983546"
+          },
+          "label": "Aspirants - TV Series 2021",
+          "href": "https://www.imdb.com/title/tt14392248/?ref_=ls_t_5"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/be06d1d1-e134-4544-90ad-e9e5f52e122d",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/e8e34045-2158-46a9-a2aa-5ad4e2ce5b33"
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/83f1b610-a6a4-493c-be30-cfbc0c71c16e",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11810/36b7df32-f5e7-4698-83a3-d7304d6b95fa"
+    },
+    {
+      "__resolveType": "Footer"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }

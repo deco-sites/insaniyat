@@ -52,7 +52,7 @@
     "__resolveType": "decohub/apps/htmx.ts"
   },
   "/.deco/blocks/pages-Home-927328.json": {
-    "name": "Home",
+    "name": "Web Series",
     "path": "/",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
